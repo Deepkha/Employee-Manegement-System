@@ -1,8 +1,35 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Hi,I am Deepesh! 👋
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+
+
+
+**Server:** Java , Spring-Boot ,MySQL,Maven
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Deepkha/Employee-Manegement-System.git
+```
+
+```
+
+
+## Screenshots
+
+Get Request
+![App Screenshot](https://drive.google.com/file/d/1kXfiJTGSQ6dGzWLf_Gdq8m5Y3mPmaLAA/view?usp=sharing)
+
+Post Request
+![App Screenshot](https://drive.google.com/file/d/1Xb8uJSevjiWhCdsvK2m9ct1LGooRgY1I/view?usp=sharing)
+
+Put Request
+![App Screenshot](https://drive.google.com/file/d/1NcG_S9Qn3-Ba3LujDVeAxSsbGPIh-fFc/view?usp=sharing)
+
+Delete Request
+![App Screenshot](https://drive.google.com/file/d/1M2Cq-AbyxGrd-drPdEZ-stQHB5Z7rplV/view?usp=sharing)
